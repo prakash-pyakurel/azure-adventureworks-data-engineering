@@ -23,24 +23,6 @@ This hands-on project simulates a real-world enterprise data engineering workflo
 
 ---
 
-## 📁 Project Folder Structure
-
-AdventureWorks-Azure-DataEngineering/
-├── data_sample/              
-# Sample input CSVs
-├── notebooks/                
-# Databricks notebook (.dbc format)
-├── sql/                      
-# SQL scripts (external tables, views)
-├── azure_adf_pipelines/      
-# ADF ARM template + pipeline JSON
-├── assets/                   
-# Architecture diagram image
-└── README.md                 
-# Project documentation
-
----
-
 ## 🔑 Key Highlights
 
 - ✅ **Dynamic Ingestion** with ADF ForEach + Lookup
