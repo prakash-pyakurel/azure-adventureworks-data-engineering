@@ -25,7 +25,6 @@ This hands-on project simulates a real-world enterprise data engineering workflo
 
 ## 📁 Project Folder Structure
 
-```plaintext
 AdventureWorks-Azure-DataEngineering/
 ├── data_sample/              # Sample input CSVs
 ├── notebooks/                # Databricks notebook (.dbc format)
