@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "factoryName": {
+            "value": "ADFazureproject-5"
+        },
+        "AzureDataLakeStorageProject5_accountKey": {
+            "value": ""
+        },
+        "AzureDataLakeStorageProject5_properties_typeProperties_url": {
+            "value": "https://azureproject5datalake.dfs.core.windows.net/"
+        },
+        "Httplinkedservice_properties_typeProperties_url": {
+            "value": "https://raw.githubusercontent.com"
+        }
+    }
+}
